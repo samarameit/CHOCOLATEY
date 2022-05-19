@@ -1,2 +1,2 @@
 # CHOCOLATEY
-choco.png
+# choco.png
