@@ -1,1 +1,2 @@
 # CHOCOLATEY
+choco.png
